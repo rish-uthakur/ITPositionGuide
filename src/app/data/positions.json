@@ -3051,6 +3051,1357 @@
           "description": "Guides on best practices for Azure cloud architecture."
         }
       ]
-    }
+    },
+     {
+      "id": 23,
+      "name": "Security Engineer",
+      "description": "A Security Engineer is responsible for protecting an organization's computer systems and networks from security breaches and cyber threats. They design, implement, and maintain security measures to safeguard sensitive data and ensure compliance with regulations.",
+      "skills": [
+        "Network security protocols (SSL, TLS, IPSec)",
+        "Firewalls and intrusion detection systems (IDS)",
+        "Vulnerability assessment and penetration testing",
+        "Security information and event management (SIEM)",
+        "Incident response and forensics",
+        "Encryption technologies",
+        "Identity and access management (IAM)",
+        "Cloud security",
+        "Compliance frameworks (ISO 27001, NIST, GDPR)",
+        "Scripting languages (Python, Bash)"
+      ],
+      "responsibilities": [
+        "Design and implement security measures to protect systems and data.",
+        "Monitor networks for security breaches and respond to incidents.",
+        "Conduct vulnerability assessments and penetration testing.",
+        "Develop and enforce security policies and procedures.",
+        "Collaborate with IT teams to ensure secure system configurations.",
+        "Perform security audits and compliance checks.",
+        "Stay updated on the latest security threats and technologies.",
+        "Provide training and awareness programs for employees.",
+        "Manage security tools and technologies (firewalls, IDS, SIEM).",
+        "Document security incidents and responses."
+      ],
+      "salaryRange": "$80,000 - $150,000 per year",
+      "examples": [
+        "Implementing a firewall to protect against unauthorized access.",
+        "Conducting a penetration test to identify vulnerabilities in a web application.",
+        "Setting up a SIEM system to monitor security events in real-time.",
+        "Developing an incident response plan for data breaches."
+      ],
+      "careerProgression": [
+        {
+          "level": "Junior Security Engineer",
+          "responsibilities": [
+            "Assist in monitoring security systems.",
+            "Perform basic vulnerability assessments.",
+            "Support incident response efforts."
+          ],
+          "salaryRange": "$60,000 - $80,000 per year"
+        },
+        {
+          "level": "Security Engineer",
+          "responsibilities": [
+            "Design and implement security solutions.",
+            "Conduct advanced penetration testing.",
+            "Manage security incidents and investigations."
+          ],
+          "salaryRange": "$80,000 - $110,000 per year"
+        },
+        {
+          "level": "Senior Security Engineer",
+          "responsibilities": [
+            "Lead security projects and initiatives.",
+            "Develop security policies and compliance strategies.",
+            "Mentor junior engineers and provide technical guidance."
+          ],
+          "salaryRange": "$110,000 - $150,000 per year"
+        },
+        {
+          "level": "Security Architect / Chief Information Security Officer (CISO)",
+          "responsibilities": [
+            "Define the overall security architecture for the organization.",
+            "Lead the security team and strategy.",
+            "Ensure compliance with industry regulations and standards."
+          ],
+          "salaryRange": "$150,000 - $200,000+ per year"
+        }
+      ],
+      "certifications": [
+        {
+          "name": "Certified Information Systems Security Professional (CISSP)",
+          "provider": "ISC2",
+          "description": "A globally recognized certification for security professionals."
+        },
+        {
+          "name": "Certified Ethical Hacker (CEH)",
+          "provider": "EC-Council",
+          "description": "Focuses on ethical hacking techniques and tools."
+        },
+        {
+          "name": "CompTIA Security+",
+          "provider": "CompTIA",
+          "description": "Entry-level certification covering fundamental security concepts."
+        }
+      ],
+      "keyTools": [
+        {
+          "name": "Wireshark",
+          "description": "A network protocol analyzer for monitoring and analyzing network traffic."
+        },
+        {
+          "name": "Nmap",
+          "description": "A network scanning tool for discovering hosts and services on a network."
+        },
+        {
+          "name": "Metasploit",
+          "description": "A penetration testing framework for finding and exploiting vulnerabilities."
+        },
+        {
+          "name": "Splunk",
+          "description": "A SIEM tool for monitoring, searching, and analyzing security data."
+        },
+        {
+          "name": "Burp Suite",
+          "description": "A web application security testing tool for identifying vulnerabilities."
+        }
+      ],
+      "futureScope": [
+        "Increased demand for cybersecurity professionals due to rising cyber threats.",
+        "Growing importance of cloud security as organizations migrate to cloud environments.",
+        "Expansion of IoT security as more devices become connected.",
+        "Integration of AI and machine learning in security solutions."
+      ],
+      "challenges": [
+        "Keeping up with rapidly evolving cyber threats and attack vectors.",
+        "Ensuring compliance with complex regulations and standards.",
+        "Managing security in hybrid and multi-cloud environments.",
+        "Balancing security measures with user experience and productivity."
+      ],
+      "commonInterviewQuestions": [
+        "What is the difference between symmetric and asymmetric encryption?",
+        "How do you perform a vulnerability assessment?",
+        "What steps would you take to respond to a security breach?",
+        "Can you explain the concept of defense in depth?",
+        "How do you secure a web application against common vulnerabilities?"
+      ],
+      "resourcesForLearning": [
+        {
+          "name": "Cybrary: Security Engineer Learning Path",
+          "provider": "Cybrary",
+          "description": "A comprehensive course covering security engineering concepts and practices."
+        },
+        {
+          "name": "OWASP Top Ten Project",
+          "provider": "OWASP",
+          "description": "A resource for understanding common web application security risks."
+        },
+        {
+          "name": "The Web Application Hacker's Handbook",
+          "provider": "Dafydd Stuttard, Marcus Pinto",
+          "description": "A book on web application security testing and vulnerabilities."
+        }
+      ]
+      
+     },
+     {
+      "id":24,
+      "name": "Digital Marketing Specialist",
+      "description": "A Digital Marketing Specialist is responsible for developing, implementing, and managing online marketing campaigns to promote products or services. They utilize various digital channels such as social media, email, search engines, and websites to reach target audiences and achieve marketing goals.",
+      "skills": [
+        "Search Engine Optimization (SEO)",
+        "Pay-Per-Click (PPC) Advertising",
+        "Social Media Marketing",
+        "Content Marketing",
+        "Email Marketing",
+        "Web Analytics (Google Analytics, SEMrush)",
+        "Conversion Rate Optimization (CRO)",
+        "Marketing Automation Tools",
+        "Copywriting and Content Creation",
+        "Brand Management"
+      ],
+      "responsibilities": [
+        "Develop and execute digital marketing strategies to increase brand awareness.",
+        "Manage and optimize PPC campaigns on platforms like Google Ads and Facebook Ads.",
+        "Create and distribute engaging content across various digital channels.",
+        "Analyze website traffic and user behavior using web analytics tools.",
+        "Implement SEO best practices to improve organic search rankings.",
+        "Manage social media accounts and engage with followers.",
+        "Conduct A/B testing to optimize marketing campaigns.",
+        "Collaborate with cross-functional teams to align marketing efforts.",
+        "Monitor industry trends and competitor activities.",
+        "Report on campaign performance and ROI."
+      ],
+      "salaryRange": "$50,000 - $100,000 per year",
+      "examples": [
+        "Running a Google Ads campaign to drive traffic to an e-commerce website.",
+        "Creating a content marketing strategy to increase brand visibility.",
+        "Optimizing a website for better search engine rankings.",
+        "Developing a social media campaign to engage with customers."
+      ],
+      "careerProgression": [
+        {
+          "level": "Junior Digital Marketing Specialist",
+          "responsibilities": [
+            "Assist in executing digital marketing campaigns.",
+            "Conduct keyword research and basic SEO tasks.",
+            "Support content creation and social media management."
+          ],
+          "salaryRange": "$40,000 - $60,000 per year"
+        },
+        {
+          "level": "Digital Marketing Specialist",
+          "responsibilities": [
+            "Manage PPC campaigns and analyze performance.",
+            "Develop content marketing strategies.",
+            "Optimize website for SEO and user experience."
+          ],
+          "salaryRange": "$60,000 - $80,000 per year"
+        },
+        {
+          "level": "Senior Digital Marketing Specialist",
+          "responsibilities": [
+            "Lead digital marketing projects and initiatives.",
+            "Analyze campaign performance and provide strategic recommendations.",
+            "Mentor junior team members."
+          ],
+          "salaryRange": "$80,000 - $100,000 per year"
+        },
+        {
+          "level": "Digital Marketing Manager / Head of Digital Marketing",
+          "responsibilities": [
+            "Oversee the entire digital marketing strategy.",
+            "Manage a team of digital marketers.",
+            "Align marketing efforts with business goals."
+          ],
+          "salaryRange": "$100,000 - $150,000+ per year"
+        }
+      ],
+      "certifications": [
+        {
+          "name": "Google Ads Certification",
+          "provider": "Google",
+          "description": "Covers PPC advertising and campaign management on Google Ads."
+        },
+        {
+          "name": "HubSpot Content Marketing Certification",
+          "provider": "HubSpot",
+          "description": "Focuses on content marketing strategies and best practices."
+        },
+        {
+          "name": "Facebook Blueprint Certification",
+          "provider": "Facebook",
+          "description": "Covers advertising on Facebook and Instagram platforms."
+        }
+      ],
+      "keyTools": [
+        {
+          "name": "Google Analytics",
+          "description": "A web analytics service for tracking and reporting website traffic."
+        },
+        {
+          "name": "SEMrush",
+          "description": "A digital marketing tool for SEO, PPC, and content marketing analysis."
+        },
+        {
+          "name": "Hootsuite",
+          "description": "A social media management platform for scheduling and analyzing social media posts."
+        },
+        {
+          "name": "Mailchimp",
+          "description": "An email marketing service for creating and managing email campaigns."
+        },
+        {
+          "name": "Canva",
+          "description": "A graphic design tool for creating visual content for marketing campaigns."
+        }
+      ],
+      "futureScope": [
+        "Increased demand for data-driven marketing strategies.",
+        "Growth of video marketing and live streaming content.",
+        "Expansion of AI and machine learning in digital marketing.",
+        "Rising importance of personalization and customer experience."
+      ],
+      "challenges": [
+        "Staying updated with rapidly changing digital marketing trends.",
+        "Managing multiple digital channels and campaigns simultaneously.",
+        "Measuring the effectiveness of marketing efforts accurately.",
+        "Balancing creativity with data-driven decision-making."
+      ],
+      "commonInterviewQuestions": [
+        "How do you approach keyword research for SEO?",
+        "What strategies do you use to optimize PPC campaigns?",
+        "Can you explain the importance of A/B testing in digital marketing?",
+        "How do you measure the success of a digital marketing campaign?",
+        "What tools do you use for social media management and analytics?"
+      ],
+      "resourcesForLearning": [
+        {
+          "name": "Google Digital Garage",
+          "provider": "Google",
+          "description": "Free online courses on digital marketing fundamentals."
+        },
+        {
+          "name": "HubSpot Academy",
+          "provider": "HubSpot",
+          "description": "Offers various certifications and courses on inbound marketing and content creation."
+        },
+        {
+          "name": "Digital Marketing Specialization",
+          "provider": "Coursera (University of Illinois)",
+          "description": "A comprehensive course covering all aspects of digital marketing."
+        }
+      ]
+     },
+     {
+      "id":25,
+      "name": "product manager",
+      "description": "A Product Manager is responsible for defining the vision, strategy, and roadmap for a product. They work closely with cross-functional teams to ensure that the product meets customer needs and business goals.",
+      "skills": [
+        "Product strategy and vision",
+        "Market research and analysis",
+        "User experience (UX) design principles",
+        "Agile methodologies (Scrum, Kanban)",
+        "Roadmap planning and prioritization",
+        "Stakeholder management",
+        "Data analysis and metrics tracking",
+        "Communication and collaboration",
+        "Problem-solving and critical thinking",
+        "Project management tools (Jira, Trello)"
+      ],
+      "responsibilities": [
+        "Define the product vision and strategy based on market research.",
+        "Create and maintain the product roadmap.",
+        "Collaborate with engineering, design, and marketing teams.",
+        "Gather and prioritize product requirements from stakeholders.",
+        "Conduct user research to understand customer needs.",
+        "Analyze market trends and competitor products.",
+        "Monitor product performance using key metrics.",
+        "Lead product development sprints and iterations.",
+        "Communicate product updates to stakeholders.",
+        "Ensure successful product launches and adoption."
+      ],
+      "salaryRange": "$90,000 - $160,000 per year",
+      "examples": [
+        "Launching a new mobile app feature based on user feedback.",
+        "Conducting market research to identify opportunities for product improvement.",
+        "Creating a product roadmap for the next quarter.",
+        "Collaborating with the design team to enhance user experience."
+      ],
+
+      "careerProgression": [
+        {
+          "level": "Associate Product Manager",
+          "responsibilities": [
+            "Assist in product research and analysis.",
+            "Support senior product managers in roadmap planning.",
+            "Gather user feedback and requirements."
+          ],
+          "salaryRange": "$70,000 - $90,000 per year"
+        },
+        {
+          "level": "Product Manager",
+          "responsibilities": [
+            "Lead product development initiatives.",
+            "Define product requirements and specifications.",
+            "Collaborate with cross-functional teams."
+          ],
+          "salaryRange": "$90,000 - $120,000 per year"
+        },
+        {
+          "level": "Senior Product Manager",
+          "responsibilities": [
+            "Drive product strategy and vision.",
+            "Manage multiple products or a product line.",
+            "Mentor junior product managers."
+          ],
+          "salaryRange": "$120,000 - $160,000 per year"
+        },
+        {
+          "level": "Director of Product Management / VP of Product",
+          "responsibilities": [
+            "Oversee the entire product management function.",
+            "Define long-term product strategy and goals.",
+            "Lead a team of product managers."
+          ],
+          "salaryRange": "$160,000 - $250,000+ per year"
+        }
+      ],
+      "certifications": [
+        {
+          "name": "Certified Scrum Product Owner (CSPO)",
+          "provider": "Scrum Alliance",
+          "description": "Focuses on Agile product management and Scrum methodologies."
+        },
+        {
+          "name": "Pragmatic Institute Product Management Certification",
+          "provider": "Pragmatic Institute",
+          "description": "Covers product management best practices and market-driven strategies."
+        },
+        {
+          "name": "Product Management Professional (PMP)",
+          "provider": "Association of International Product Marketing and Management (AIPMM)",
+          "description": "Validates expertise in product management processes and methodologies."
+        }
+      ],
+      "keyTools": [
+        {
+          "name": "Jira",
+          "description": "A project management tool for Agile product development and issue tracking."
+        },
+        {
+          "name": "Trello",
+          "description": "A visual collaboration tool for managing product tasks and workflows."
+        },
+        {
+          "name": "Confluence",
+          "description": "A documentation and collaboration platform for product teams."
+        },
+        {
+          "name": "Aha!",
+          "description": "A product management software for roadmapping and planning."
+        },
+        {
+          "name": "Mixpanel",
+          "description": "An analytics tool for tracking user behavior and product performance."
+        }
+      ],
+      "futureScope": [
+        "Increased demand for data-driven product management.",
+        "Growing importance of user experience and customer-centric design.",
+        "Expansion of AI and machine learning in product development.",
+        "Rising need for cross-functional collaboration in product teams."
+      ],
+      "challenges": [
+        "Balancing customer needs with business goals.",
+        "Managing competing priorities and stakeholder expectations.",
+        "Staying updated with rapidly changing market trends.",
+        "Ensuring successful product launches in a competitive landscape."
+      ],
+      "commonInterviewQuestions": [
+        "How do you prioritize features in a product roadmap?",
+        "Can you describe a time when you had to make a difficult product decision?",
+        "How do you gather and analyze user feedback?",
+        "What metrics do you use to measure product success?",
+        "How do you handle conflicts with stakeholders?"
+      ],
+      "resourcesForLearning": [
+        {
+          "name": "Product Management 101",
+          "provider": "Coursera (University of Virginia)",
+          "description": "A foundational course on product management principles and practices."
+        },
+        {
+          "name": "Inspired: How To Create Products Customers Love",
+          "provider": "Marty Cagan",
+          "description": "A book on product management best practices and strategies."
+        },
+        {
+          "name": "Mind the Product",
+          "provider": "Mind the Product",
+          "description": "A community and resource hub for product managers with articles, podcasts, and events."
+        }
+      ]
+     },
+     {
+      "id": 26,
+      "name": "Technical Writer",
+      "description": "A Technical Writer creates clear and concise documentation for technical products and services. They translate complex technical information into user-friendly content, such as manuals, guides, and online help systems.",
+      "skills": [
+        "Excellent writing and communication skills",
+        "Understanding of technical concepts and terminology",
+        "Proficiency in documentation tools (MadCap Flare, Adobe RoboHelp)",
+        "Ability to create user manuals and guides",
+        "Knowledge of content management systems (CMS)",
+        "Attention to detail and accuracy",
+        "Research and analysis skills",
+        "Collaboration with subject matter experts (SMEs)",
+        "Familiarity with Agile methodologies",
+        "Basic understanding of HTML/CSS"
+      ],
+      "responsibilities": [
+        "Create and maintain user manuals, guides, and online help documentation.",
+        "Collaborate with engineers and product managers to gather technical information.",
+        "Translate complex technical concepts into easy-to-understand content.",
+        "Ensure documentation is accurate, up-to-date, and user-friendly.",
+        "Conduct user research to understand documentation needs.",
+        "Review and edit content for clarity, consistency, and style.",
+        "Manage documentation projects and timelines.",
+        "Stay updated with industry trends and best practices in technical writing.",
+        "Develop templates and standards for documentation.",
+        "Provide training and support for users on documentation tools."
+      ],
+      "salaryRange": "$60,000 - $120,000 per year",
+      "examples": [
+        "Creating a user manual for a software application.",
+        "Developing online help documentation for a web service.",
+        "Writing API documentation for developers.",
+        "Producing training materials for end-users."
+      ],
+      "careerProgression": [
+        {
+          "level": "Junior Technical Writer",
+          "responsibilities": [
+            "Assist in creating user manuals and guides.",
+            "Conduct basic research on technical topics.",
+            "Support senior writers in documentation projects."
+          ],
+          "salaryRange": "$50,000 - $70,000 per year"
+        },
+        {
+          "level": "Technical Writer",
+          "responsibilities": [
+            "Develop comprehensive documentation for products.",
+            "Collaborate with cross-functional teams to gather information.",
+            "Ensure documentation meets quality standards."
+          ],
+          "salaryRange": "$70,000 - $90,000 per year"
+        },
+        {
+          "level": "Senior Technical Writer",
+          "responsibilities": [
+            "Lead documentation projects and initiatives.",
+            "Mentor junior writers and provide technical guidance.",
+            "Develop documentation strategies and standards."
+          ],
+          "salaryRange": "$90,000 - $120,000 per year"
+        },
+        {
+          "level": "Lead Technical Writer / Documentation Manager",
+          "responsibilities": [
+            "Oversee the entire documentation function.",
+            "Manage a team of technical writers.",
+            "Define long-term documentation strategy and goals."
+          ],
+          "salaryRange": "$120,000 - $150,000+ per year"
+        }
+      ],
+
+      "certifications": [
+        {
+          "name": "Certified Professional Technical Communicator (CPTC)",
+          "provider": "Society for Technical Communication (STC)",
+          "description": "A certification that validates technical communication skills and knowledge."
+        },
+        {
+          "name": "Technical Writing Certification",
+          "provider": "Coursera (Google)",
+          "description": "A course that covers the fundamentals of technical writing."
+        },
+        {
+          "name": "Advanced Technical Writing",
+          "provider": "LinkedIn Learning",
+          "description": "An advanced course on technical writing techniques and best practices."
+        }
+      ],
+      "keyTools": [
+        {
+          "name": "MadCap Flare",
+          "description": "A documentation tool for creating online help and user manuals."
+        },
+        {
+          "name": "Adobe RoboHelp",
+          "description": "A software for creating help systems and knowledge bases."
+        },
+        {
+          "name": "Confluence",
+          "description": "A collaboration platform for creating and managing documentation."
+        },
+        {
+          "name": "Snagit",
+          "description": "A screen capture tool for creating visual content in documentation."
+        },
+        {
+          "name": "Markdown",
+          "description": "A lightweight markup language for formatting text in documentation."
+        }
+      ],
+      "futureScope": [
+        "Increased demand for technical writers in software and technology industries.",
+        "Growing importance of user experience (UX) in documentation.",
+        "Expansion of online help systems and knowledge bases.",
+        "Integration of AI and machine learning in documentation tools."
+      ],
+      "challenges": [
+        "Keeping up with rapidly changing technology and industry standards.",
+        "Ensuring documentation is accessible and user-friendly.",
+        "Balancing technical accuracy with clarity for non-technical users.",
+        "Managing multiple documentation projects and deadlines."
+      ],
+      "commonInterviewQuestions": [
+        "How do you approach writing technical documentation?",
+        "Can you describe your experience with documentation tools?",
+        "How do you ensure accuracy and clarity in your writing?",
+        "What strategies do you use to gather information from subject matter experts?",
+        "How do you handle feedback and revisions to your documentation?"
+      ],
+      "resourcesForLearning": [
+        {
+          "name": "Technical Writing Fundamentals",
+          "provider": "Coursera (Google)",
+          "description": "A course that covers the basics of technical writing and documentation."
+        },
+        {
+          "name": "The Elements of Technical Writing",
+          "provider": "John M. Lannon, Laura J. Gurak",
+          "description": "A book that provides insights into effective technical writing practices."
+        },
+        {
+          "name": "Society for Technical Communication (STC)",
+          "provider": "STC",
+          "description": "A professional association that offers resources, training, and networking opportunities for technical writers."
+        }
+      ]
+
+     },
+     {
+      "id":27,
+      "name": "Scrum Master",
+      "description": "A Scrum Master is responsible for facilitating the Scrum process within a team. They help teams adopt Agile practices, remove obstacles, and ensure that the Scrum framework is followed effectively.",
+      "skills": [
+        "Deep understanding of Scrum and Agile methodologies",
+        "Facilitation and coaching skills",
+        "Conflict resolution and problem-solving",
+        "Effective communication and collaboration",
+        "Knowledge of Agile project management tools (Jira, Trello)",
+        "Team dynamics and interpersonal skills",
+        "Time management and prioritization",
+        "Adaptability and flexibility",
+        "Stakeholder management",
+        "Continuous improvement mindset"
+      ],
+      "responsibilities": [
+        "Facilitate Scrum ceremonies (sprint planning, daily stand-ups, sprint reviews, retrospectives).",
+        "Coach the team on Agile principles and practices.",
+        "Remove impediments that hinder the team's progress.",
+        "Ensure that the Scrum framework is followed effectively.",
+        "Collaborate with the Product Owner to manage the product backlog.",
+        "Foster a culture of continuous improvement within the team.",
+        "Monitor team performance and provide feedback.",
+        "Promote transparency and communication among team members.",
+        "Support the team in achieving their sprint goals.",
+        "Engage with stakeholders to ensure alignment on project objectives."
+      ],
+      "salaryRange": "$80,000 - $140,000 per year",
+      "examples": [
+        "Facilitating a sprint planning meeting to define the scope of work for the upcoming sprint.",
+        "Coaching a team on how to effectively conduct daily stand-ups.",
+        "Removing a blocker that prevents the team from completing their tasks.",
+        "Leading a retrospective to identify areas for improvement in the team's processes."
+      ],
+      "careerProgression": [
+        {
+          "level": "Junior Scrum Master",
+          "responsibilities": [
+            "Assist in facilitating Scrum ceremonies.",
+            "Support the team in adopting Agile practices.",
+            "Help remove minor impediments."
+          ],
+          "salaryRange": "$60,000 - $80,000 per year"
+        },
+        {
+          "level": "Scrum Master",
+          "responsibilities": [
+            "Lead Scrum ceremonies and coaching sessions.",
+            "Remove significant impediments for the team.",
+            "Collaborate with the Product Owner on backlog management."
+          ],
+          "salaryRange": "$80,000 - $110,000 per year"
+        },
+        {
+          "level": "Senior Scrum Master",
+          "responsibilities": [
+            "Mentor junior Scrum Masters and team members.",
+            "Drive continuous improvement initiatives.",
+            "Manage multiple teams or larger projects."
+          ],
+          "salaryRange": "$110,000 - $140,000 per year"
+        },
+        {
+          "level": "Agile Coach / Director of Agile Practices",
+          "responsibilities": [
+            "Define and implement Agile practices across the organization.",
+            "Lead Agile transformation initiatives.",
+            "Provide strategic guidance on Agile methodologies."
+          ],
+          "salaryRange": "$140,000 - $180,000+ per year"
+        }
+      ],
+      "certifications": [
+        {
+          "name": "Certified ScrumMaster (CSM)",
+          "provider": "Scrum Alliance",
+          "description": "A foundational certification for Scrum Masters that covers the basics of Scrum and Agile practices."
+        },
+        {
+          "name": "Professional Scrum Master (PSM)",
+          "provider": "Scrum.org",
+          "description": "An advanced certification that validates deep knowledge of Scrum principles and practices."
+        },
+        {
+          "name": "Agile Certified Practitioner (PMI-ACP)",
+          "provider": "Project Management Institute (PMI)",
+          "description": "A certification that demonstrates expertise in Agile methodologies, including Scrum."
+        }
+      ],
+      "keyTools": [
+        {
+          "name": "Jira",
+          "description": "A project management tool for Agile teams to track tasks and manage sprints."
+        },
+        {
+          "name": "Trello",
+          "description": "A visual collaboration tool for managing tasks and workflows in Agile projects."
+        },
+        {
+          "name": "Confluence",
+          "description": "A documentation and collaboration platform for Agile teams to share knowledge."
+        },
+        {
+          "name": "Miro",
+          "description": "An online whiteboard tool for collaborative brainstorming and planning in Agile teams."
+        },
+        {
+          "name": "Slack",
+          "description": "A communication platform for real-time collaboration among team members."
+        }
+      ],
+      "futureScope": [
+        "Increased adoption of Agile methodologies across various industries.",
+        "Growing demand for Scrum Masters in software development and IT projects.",
+        "Expansion of Agile practices beyond software development to other business areas.",
+        "Integration of AI and machine learning in Agile project management tools."
+      ],
+
+      "challenges": [
+        "Ensuring team members fully embrace Agile principles.",
+        "Managing resistance to change within the organization.",
+        "Balancing the needs of the team with stakeholder expectations.",
+        "Continuously improving team performance and processes."
+      ],
+      "commonInterviewQuestions": [
+        "How do you facilitate a sprint planning meeting?",
+        "What techniques do you use to remove impediments for the team?",
+        "Can you describe a challenging situation you faced as a Scrum Master and how you resolved it?",
+        "How do you measure the success of a Scrum team?",
+        "What strategies do you use to promote continuous improvement within the team?"
+      ],
+      "resourcesForLearning": [
+        {
+          "name": "Scrum Guide",
+          "provider": "Scrum.org",
+          "description": "The official guide to Scrum, providing a comprehensive overview of the framework and its practices."
+        },
+        {
+          "name": "Agile Estimating and Planning",
+          "provider": "Mike Cohn",
+          "description": "A book that covers Agile planning techniques and estimation methods."
+        },
+        {
+          "name": "Scrum Master Training Course",
+          "provider": "Coursera (University of Virginia)",
+          "description": "An online course that teaches the fundamentals of Scrum and the role of a Scrum Master."
+        }
+      ]
+
+     },
+     {
+      "id":28,
+      "name": "SEO specialist",
+      "description": "An SEO Specialist is responsible for optimizing websites to improve their visibility in search engine results. They use various techniques and strategies to increase organic traffic and enhance the overall online presence of a business.",
+      "skills": [
+        "Search Engine Optimization (SEO) techniques",
+        "Keyword research and analysis",
+        "On-page and off-page SEO strategies",
+        "Technical SEO (site structure, indexing, crawling)",
+        "Content optimization and creation",
+        "Link building and backlink analysis",
+        "Web analytics (Google Analytics, SEMrush)",
+        "Understanding of search engine algorithms",
+        "Competitor analysis",
+        "Familiarity with HTML/CSS"
+      ],
+      "responsibilities": [
+        "Conduct keyword research to identify target keywords for optimization.",
+        "Optimize website content, meta tags, and headings for search engines.",
+        "Implement technical SEO best practices to improve site performance.",
+        "Monitor and analyze website traffic and search rankings using analytics tools.",
+        "Develop and execute link building strategies to enhance domain authority.",
+        "Stay updated with the latest SEO trends and algorithm changes.",
+        "Collaborate with content creators to produce SEO-friendly content.",
+        "Conduct competitor analysis to identify opportunities for improvement.",
+        "Generate reports on SEO performance and provide recommendations.",
+        "Ensure compliance with search engine guidelines and best practices."
+      ],
+      "salaryRange": "$50,000 - $100,000 per year",
+      "examples": [
+        "Optimizing a website's meta tags and content to improve search engine rankings.",
+        "Conducting a technical SEO audit to identify issues affecting site performance.",
+        "Developing a link building strategy to increase the website's authority.",
+        "Analyzing website traffic data to measure the effectiveness of SEO efforts."
+      ],
+      "careerProgression": [
+        {
+          "level": "Junior SEO Specialist",
+          "responsibilities": [
+            "Assist in keyword research and content optimization.",
+            "Support senior SEO specialists in implementing SEO strategies.",
+            "Monitor website performance and report on key metrics."
+          ],
+          "salaryRange": "$40,000 - $60,000 per year"
+        },
+        {
+          "level": "SEO Specialist",
+          "responsibilities": [
+            "Develop and execute SEO strategies for multiple websites.",
+            "Conduct technical SEO audits and implement improvements.",
+            "Analyze competitor websites and identify opportunities for growth."
+          ],
+          "salaryRange": "$60,000 - $80,000 per year"
+        },
+        {
+          "level": "Senior SEO Specialist",
+          "responsibilities": [
+            "Lead SEO projects and initiatives.",
+            "Mentor junior team members and provide technical guidance.",
+            "Collaborate with cross-functional teams to align SEO efforts with business goals."
+          ],
+          "salaryRange": "$80,000 - $100,000 per year"
+        },
+        {
+          "level": "SEO Manager / Head of SEO",
+          "responsibilities": [
+            "Oversee the entire SEO function within the organization.",
+            "Define long-term SEO strategy and goals.",
+            "Manage a team of SEO specialists and analysts."
+          ],
+          "salaryRange": "$100,000 - $150,000+ per year"
+        }
+      ],
+      "certifications": [
+        {
+          "name": "Google Analytics Certification",
+          "provider": "Google",
+          "description": "Covers web analytics and data analysis for SEO purposes."
+        },
+        {
+          "name": "SEO Specialization",
+          "provider": "Coursera (University of California, Davis)",
+          "description": "A comprehensive course on SEO techniques and strategies."
+        },
+        {
+          "name": "HubSpot SEO Certification",
+          "provider": "HubSpot",
+          "description": "Focuses on inbound marketing and SEO best practices."
+        }
+      ],
+      "keyTools": [
+        {
+          "name": "Google Search Console",
+          "description": "A tool for monitoring website performance in Google search results."
+        },
+        {
+          "name": "SEMrush",
+          "description": "A comprehensive SEO tool for keyword research, site audits, and competitor analysis."
+        },
+        {
+          "name": "Ahrefs",
+          "description": "A powerful SEO tool for backlink analysis and keyword research."
+        },
+        {
+          "name": "Moz Pro",
+          "description": "An SEO software suite that provides tools for keyword research and site optimization."
+        },
+        {
+          "name": "Yoast SEO",
+          "description": "A popular WordPress plugin for on-page SEO optimization."
+        }
+      ],
+      "futureScope": [
+        "Increased demand for SEO specialists as businesses focus on online visibility.",
+        "Growing importance of local SEO and mobile optimization.",
+        "Expansion of voice search and its impact on SEO strategies.",
+        "Integration of AI and machine learning in SEO tools and techniques."
+      ],
+      "challenges": [
+        "Staying updated with frequent changes in search engine algorithms.",
+        "Balancing technical SEO with content creation and optimization.",
+        "Measuring the ROI of SEO efforts accurately.",
+        "Competing with other businesses for top search rankings."
+      ],
+      "commonInterviewQuestions": [
+        "How do you conduct keyword research for SEO?",
+        "What strategies do you use to improve a website's search engine rankings?",
+        "Can you explain the importance of technical SEO?",
+        "How do you measure the success of an SEO campaign?",
+        "What tools do you use for SEO analysis and reporting?"
+      ],
+      "resourcesForLearning": [
+        {
+          "name": "SEO Fundamentals Course",
+          "provider": "Coursera (University of California, Davis)",
+          "description": "A foundational course on SEO techniques and best practices."
+        },
+        {
+          "name": "The Art of SEO: Mastering Search Engine Optimization",
+          "provider": "Eric Enge, Stephan Spencer, Jessie Stricchiola",
+          "description": "A comprehensive book on SEO strategies and techniques."
+        },
+        {
+          "name": "Moz Blog",
+          "provider": "Moz",
+          "description": "A leading resource for SEO news, tips, and best practices."
+        }
+      ]
+     },
+     {
+      "id":29,
+      "name": "site Reliability engineer",
+      "description": "A Site Reliability Engineer (SRE) is responsible for ensuring the reliability, availability, and performance of software systems. They apply engineering principles to operations tasks and work closely with development teams to improve system reliability.",
+      "skills": [
+        "Strong programming skills (Python, Go, Java, etc.)",
+        "Understanding of system architecture and design",
+        "Experience with cloud platforms (AWS, Azure, GCP)",
+        "Knowledge of containerization (Docker, Kubernetes)",
+        "Monitoring and alerting tools (Prometheus, Grafana)",
+        "Incident management and response",
+        "Automation and scripting skills",
+        "Configuration management tools (Ansible, Puppet, Chef)",
+        "Networking fundamentals",
+        "Problem-solving and troubleshooting"
+      ],
+      "responsibilities": [
+        "Design and implement scalable and reliable systems.",
+        "Monitor system performance and availability using metrics and logs.",
+        "Automate operational tasks to improve efficiency.",
+        "Respond to incidents and outages, performing root cause analysis.",
+        "Collaborate with development teams to improve system reliability.",
+        "Implement best practices for system security and compliance.",
+        "Conduct capacity planning and performance tuning.",
+        "Develop and maintain documentation for systems and processes.",
+        "Participate in on-call rotations for incident response.",
+        "Continuously improve processes and tools for reliability engineering."
+      ],
+      "salaryRange": "$90,000 - $160,000 per year",
+      "examples": [
+        "Implementing a monitoring system to track application performance.",
+        "Automating deployment processes using CI/CD pipelines.",
+        "Responding to a production incident and performing root cause analysis.",
+        "Collaborating with developers to improve system architecture for reliability."
+      ],
+      "careerProgression": [
+        {
+          "level": "Junior Site Reliability Engineer",
+          "responsibilities": [
+            "Assist in monitoring and maintaining system reliability.",
+            "Support senior SREs in incident response and troubleshooting.",
+            "Learn and apply automation tools and practices."
+          ],
+          "salaryRange": "$70,000 - $90,000 per year"
+        },
+        {
+          "level": "Site Reliability Engineer",
+          "responsibilities": [
+            "Design and implement reliable systems and services.",
+            "Automate operational tasks and improve processes.",
+            "Collaborate with development teams on system reliability."
+          ],
+          "salaryRange": "$90,000 - $120,000 per year"
+        },
+        {
+          "level": "Senior Site Reliability Engineer",
+          "responsibilities": [
+            "Lead reliability engineering initiatives and projects.",
+            "Mentor junior SREs and provide technical guidance.",
+            "Drive improvements in system architecture and performance."
+          ],
+          "salaryRange": "$120,000 - $160,000 per year"
+        },
+        {
+          "level": "Site Reliability Engineering Manager / Director of SRE",
+          "responsibilities": [
+            "Oversee the entire SRE function within the organization.",
+            "Define long-term reliability strategy and goals.",
+            "Manage a team of SREs and ensure alignment with business objectives."
+          ],
+          "salaryRange": "$160,000 - $200,000+ per year"
+        }
+      ],
+      "certifications": [
+        {
+          "name": "Google Professional Site Reliability Engineer",
+          "provider": "Google Cloud",
+          "description": "A certification that validates expertise in SRE practices and principles."
+        },
+        {
+          "name": "Certified Kubernetes Administrator (CKA)",
+          "provider": "Cloud Native Computing Foundation (CNCF)",
+          "description": "Focuses on Kubernetes administration, a key technology for SREs."
+        },
+        {
+          "name": "AWS Certified DevOps Engineer - Professional",
+          "provider": "Amazon Web Services (AWS)",
+          "description": "Covers DevOps practices, including automation and reliability engineering."
+        }
+      ],
+      "keyTools": [
+        {
+          "name": "Prometheus",
+          "description": "An open-source monitoring and alerting toolkit for system performance."
+        },
+        {
+          "name": "Grafana",
+          "description": "A visualization tool for monitoring metrics and logs."
+        },
+        {
+          "name": "Kubernetes",
+          "description": "A container orchestration platform for managing containerized applications."
+        },
+        {
+          "name": "Terraform",
+          "description": "An infrastructure as code tool for provisioning and managing cloud resources."
+        },
+        {
+          "name": "PagerDuty",
+          "description": "An incident management platform for on-call scheduling and alerting."
+        }
+      ],
+      "futureScope": [
+        "Increased demand for SREs as organizations focus on system reliability.",
+        "Growing importance of automation and DevOps practices in SRE roles.",
+        "Expansion of cloud-native technologies and containerization.",
+        "Integration of AI and machine learning in reliability engineering tools."
+      ],
+      "challenges": [
+        "Balancing system reliability with development speed and agility.",
+        "Managing complex distributed systems and microservices architectures.",
+        "Ensuring effective incident response and root cause analysis.",
+        "Staying updated with rapidly evolving technologies and practices."
+      ],
+      "commonInterviewQuestions": [
+        "How do you approach incident response and troubleshooting?",
+        "Can you describe your experience with monitoring and alerting tools?",
+        "What strategies do you use to improve system reliability?",
+        "How do you handle on-call rotations and incident management?",
+        "What is your experience with automation and scripting in SRE?"
+      ],
+      "resourcesForLearning": [
+        {
+          "name": "Site Reliability Engineering: How Google Runs Production Systems",
+          "provider": "Niall Richard Murphy, Betsy Beyer, Chris Jones, Jennifer Petoff",
+          "description": "A foundational book on SRE principles and practices."
+        },
+        {
+          "name": "Google Professional Site Reliability Engineer Certification Course",
+          "provider": "Coursera (Google Cloud)",
+          "description": "An online course that prepares you for the Google SRE certification."
+        },
+        {
+          "name": "The Site Reliability Workbook: Practical Ways to Implement SRE",
+          "provider": "Betsey Beyer, Niall Richard Murphy, Jennifer Petoff, Chris Jones",
+          "description": "A practical guide to implementing SRE practices in organizations."
+        }
+      ]
+
+     },
+     {
+      "id":30,
+      "name": "Hardware Engineer",
+      "description": "A Hardware Engineer designs, develops, and tests electronic components and systems. They work on various hardware projects, including circuit boards, processors, and embedded systems.",
+      "skills": [
+        "Strong understanding of electronics and circuit design",
+        "Proficiency in hardware design software (Altium, Cadence)",
+        "Knowledge of embedded systems and microcontrollers",
+        "Experience with PCB layout and fabrication",
+        "Familiarity with hardware testing and debugging tools",
+        "Understanding of signal integrity and power distribution",
+        "Problem-solving and analytical skills",
+        "Attention to detail and accuracy",
+        "Collaboration with cross-functional teams",
+        "Project management skills"
+      ],
+      "responsibilities": [
+        "Design and develop electronic circuits and systems.",
+        "Create schematics and PCB layouts for hardware projects.",
+        "Test and validate hardware components and systems.",
+        "Collaborate with software engineers to integrate hardware and software.",
+        "Conduct failure analysis and troubleshooting of hardware issues.",
+        "Ensure compliance with industry standards and regulations.",
+        "Document hardware designs and specifications.",
+        "Participate in design reviews and provide feedback.",
+        "Stay updated with emerging technologies in hardware engineering.",
+        "Manage hardware projects from concept to production."
+      ],
+      "salaryRange": "$70,000 - $130,000 per year",
+      "examples": [
+        "Designing a custom circuit board for a new electronic device.",
+        "Developing an embedded system for IoT applications.",
+        "Testing and validating hardware components for performance and reliability.",
+        "Collaborating with software engineers to integrate hardware and firmware."
+      ],
+      "careerProgression": [
+        {
+          "level": "Junior Hardware Engineer",
+          "responsibilities": [
+            "Assist in hardware design and development.",
+            "Support senior engineers in testing and validation.",
+            "Learn and apply hardware design tools and techniques."
+          ],
+          "salaryRange": "$60,000 - $80,000 per year"
+        },
+        {
+          "level": "Hardware Engineer",
+          "responsibilities": [
+            "Design and develop complex hardware systems.",
+            "Conduct testing and validation of hardware components.",
+            "Collaborate with cross-functional teams on hardware projects."
+          ],
+          "salaryRange": "$80,000 - $110,000 per year"
+        },
+        {
+          "level": "Senior Hardware Engineer",
+          "responsibilities": [
+            "Lead hardware design projects and initiatives.",
+            "Mentor junior engineers and provide technical guidance.",
+            "Drive improvements in hardware design processes."
+          ],
+          "salaryRange": "$110,000 - $130,000 per year"
+        },
+        {
+          "level": "Hardware Engineering Manager / Director of Hardware Engineering",
+          "responsibilities": [
+            "Oversee the entire hardware engineering function within the organization.",
+            "Define long-term hardware strategy and goals.",
+            "Manage a team of hardware engineers and ensure alignment with business objectives."
+          ],
+          "salaryRange": "$130,000 - $170,000+ per year"
+        }
+      ],
+      "certifications": [
+        {
+          "name": "Certified Hardware Engineer (CHE)",
+          "provider": "International Society of Certified Electronics Technicians (ISCET)",
+          "description": "A certification that validates expertise in hardware engineering principles and practices."
+        },
+        {
+          "name": "Certified Electronics Technician (CET)",
+          "provider": "Electronics Technicians Association (ETA)",
+          "description": "Focuses on electronics and hardware design skills."
+        },
+        {
+          "name": "Altium Designer Certification",
+          "provider": "Altium",
+          "description": "A certification that demonstrates proficiency in using Altium Designer for PCB design."
+        }
+      ],
+      "keyTools": [
+        {
+          "name": "Altium Designer",
+          "description": "A professional PCB design software for creating electronic circuit boards."
+        },
+        {
+          "name": "Cadence OrCAD",
+          "description": "A suite of tools for PCB design, simulation, and analysis."
+        },
+        {
+          "name": "KiCad",
+          "description": "An open-source PCB design tool for creating electronic schematics and layouts."
+        },
+        {
+          "name": "MATLAB/Simulink",
+          "description": "A software platform for modeling, simulating, and analyzing hardware systems."
+        },
+        {
+          "name": "LabVIEW",
+          "description": "A system-design platform for hardware testing and validation."
+        }
+      ],
+      "futureScope": [
+        "Increased demand for hardware engineers in IoT and embedded systems.",
+        "Growing importance of hardware-software integration in product development.",
+        "Expansion of AI and machine learning applications in hardware design.",
+        "Integration of advanced materials and technologies in hardware engineering."
+      ],
+      "challenges": [
+        "Keeping up with rapidly evolving hardware technologies.",
+        "Balancing performance, cost, and reliability in hardware design.",
+        "Ensuring compliance with industry standards and regulations.",
+        "Managing complex hardware projects with tight deadlines."
+      ],
+      "commonInterviewQuestions": [
+        "How do you approach hardware design and development?",
+        "Can you describe your experience with PCB layout and fabrication?",
+        "What tools do you use for hardware testing and validation?",
+        "How do you ensure compliance with industry standards in hardware engineering?",
+        "What strategies do you use to troubleshoot hardware issues?"
+      ],
+      "resourcesForLearning": [
+        {
+          "name": "The Art of Electronics",
+          "provider": "Paul Horowitz, Winfield Hill",
+          "description": "A comprehensive book on electronics and hardware design principles."
+        },
+        {
+          "name": "Altium Designer Training Course",
+          "provider": "Altium Academy",
+          "description": "An online course that teaches PCB design using Altium Designer."
+        },
+        {
+          "name": "Hardware Design Fundamentals",
+          "provider": "Coursera (University of California, Irvine)",
+          "description": "An introductory course on hardware design and engineering principles."
+        }
+      ]
+
+     },
+     {
+      "id":31,
+      "name": "DevSecOps Engineer",
+      "description": "A DevSecOps Engineer integrates security practices into the DevOps process. They ensure that security is a key consideration throughout the software development lifecycle, from design to deployment.",
+      "skills": [
+        "Strong understanding of DevOps principles and practices",
+        "Knowledge of security best practices in software development",
+        "Experience with CI/CD pipelines and automation tools",
+        "Familiarity with cloud platforms (AWS, Azure, GCP)",
+        "Understanding of containerization (Docker, Kubernetes)",
+        "Security testing and vulnerability assessment",
+        "Incident response and threat management",
+        "Scripting and automation skills (Python, Bash)",
+        "Collaboration with development and operations teams",
+        "Problem-solving and analytical skills"
+      ],
+      "responsibilities": [
+        "Integrate security practices into the DevOps pipeline.",
+        "Conduct security assessments and vulnerability scans on applications.",
+        "Implement security controls and best practices in CI/CD processes.",
+        "Collaborate with development teams to ensure secure coding practices.",
+        "Monitor and respond to security incidents and threats.",
+        "Develop and maintain security policies and procedures.",
+        "Conduct training and awareness programs for development teams on security best practices.",
+        "Stay updated with the latest security trends and vulnerabilities.",
+        "Automate security testing and compliance checks in the DevOps pipeline.",
+        "Ensure compliance with industry standards and regulations."
+      ],
+      "salaryRange": "$90,000 - $160,000 per year",
+      "examples": [
+        "Implementing security checks in a CI/CD pipeline to detect vulnerabilities.",
+        "Conducting a security assessment of a web application before deployment.",
+        "Automating security testing using tools like OWASP ZAP or Snyk.",
+        "Collaborating with developers to ensure secure coding practices are followed."
+      ],
+      "careerProgression": [
+        {
+          "level": "Junior DevSecOps Engineer",
+          "responsibilities": [
+            "Assist in integrating security practices into the DevOps pipeline.",
+            "Support senior engineers in security assessments and testing.",
+            "Learn and apply security tools and techniques."
+          ],
+          "salaryRange": "$70,000 - $90,000 per year"
+        },
+        {
+          "level": "DevSecOps Engineer",
+          "responsibilities": [
+            "Design and implement security controls in CI/CD processes.",
+            "Conduct security assessments and vulnerability scans.",
+            "Collaborate with development teams on secure coding practices."
+          ],
+          "salaryRange": "$90,000 - $120,000 per year"
+        },
+        {
+          "level": "Senior DevSecOps Engineer",
+          "responsibilities": [
+            "Lead security initiatives and projects within the DevOps team.",
+            "Mentor junior engineers and provide technical guidance.",
+            "Drive improvements in security practices and processes."
+          ],
+          "salaryRange": "$120,000 - $160,000 per year"
+        },
+        {
+          "level": "DevSecOps Manager / Director of DevSecOps",
+          "responsibilities": [
+            "Oversee the entire DevSecOps function within the organization.",
+            "Define long-term security strategy and goals.",
+            "Manage a team of DevSecOps engineers and ensure alignment with business objectives."
+          ],
+          "salaryRange": "$160,000 - $200,000+ per year"
+        }
+      ],
+
+      "certifications": [
+        {
+          "name": "Certified DevSecOps Professional (CDP)",
+          "provider": "DevOps Institute",
+          "description": "A certification that validates expertise in integrating security into DevOps practices."
+        },
+        {
+          "name": "Certified Information Systems Security Professional (CISSP)",
+          "provider": "ISC2",
+          "description": "A globally recognized certification for information security professionals."
+        },
+        {
+          "name": "AWS Certified DevOps Engineer - Professional",
+          "provider": "Amazon Web Services (AWS)",
+          "description": "Covers DevOps practices, including security in AWS environments."
+        }
+      ],
+      "keyTools": [
+        {
+          "name": "OWASP ZAP",
+          "description": "An open-source security testing tool for web applications."
+        },
+        {
+          "name": "Snyk",
+          "description": "A tool for finding and fixing vulnerabilities in open source dependencies."
+        },
+        {
+          "name": "SonarQube",
+          "description": "A code quality and security analysis tool for continuous inspection."
+        },
+        {
+          "name": "Terraform",
+          "description": "An infrastructure as code tool for provisioning and managing cloud resources securely."
+        },
+        {
+          "name": "Kubernetes",
+          "description": "A container orchestration platform with built-in security features."
+        }
+      ],
+      "futureScope": [
+        "Increased demand for DevSecOps engineers as organizations prioritize security in DevOps.",
+        "Growing importance of automation and continuous security testing.",
+        "Expansion of cloud-native security practices in DevSecOps.",
+        "Integration of AI and machine learning in security tools and practices."
+      ],
+      "challenges": [
+        "Balancing security with development speed and agility.",
+        "Managing complex security requirements in cloud environments.",
+        "Ensuring effective incident response and threat management.",
+        "Staying updated with rapidly evolving security threats and vulnerabilities."
+      ],
+
+      "commonInterviewQuestions": [
+        "How do you integrate security practices into the DevOps pipeline?",
+        "Can you describe your experience with security testing tools?",
+        "What strategies do you use to ensure secure coding practices?",
+        "How do you handle security incidents and vulnerabilities?",
+        "What is your experience with automation in DevSecOps?"
+      ],
+      "resourcesForLearning": [
+        {
+          "name": "DevSecOps: A Leader's Guide to Producing Secure Software without Compromising Flow, Feedback and Continual Learning",
+          "provider": "Jim Bird",
+          "description": "A comprehensive guide to integrating security into DevOps practices."
+        },
+        {
+          "name": "Certified DevSecOps Professional (CDP) Training Course",
+          "provider": "DevOps Institute",
+          "description": "An online course that prepares you for the CDP certification."
+        },
+        {
+          "name": "The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win",
+          "provider": "Gene Kim, Kevin Behr, George Spafford",
+          "description": "A novel that explores DevOps principles, including security integration."
+        }
+      ]
+     }
   ]
 }
